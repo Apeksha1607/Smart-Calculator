@@ -93,8 +93,5 @@ Learning Swing and AWT concepts
 Keyboard input support
 Scientific notation mode
 History of calculations
-Dark mode UI
-Improved error messages
-📜 License
-This project is open-source and available under the MIT License. Just tell me 😊
+
 
