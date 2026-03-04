@@ -4,7 +4,6 @@ A Smart Calculator desktop application built using Java Swing that performs basi
 
 This project demonstrates GUI programming, event handling, and mathematical computation in Java.
 
-📌 Features
 User-friendly Graphical User Interface (GUI)
 Supports basic arithmetic operations:
 Addition (+)
@@ -16,6 +15,8 @@ Supports advanced operations:
 Square root (√)
 Square (x²)
 Sine (sin)
+
+📌 Features
 Cosine (cos)
 Tangent (tan)
 Logarithm (log)
@@ -23,6 +24,7 @@ Backspace (←) functionality
 Clear (C) button to reset calculator
 Error handling for invalid inputs
 Decimal precision formatting
+
 🖥️ Technologies Used
 Java
 Java Swing
@@ -86,6 +88,7 @@ GUI programming practice
 College mini-projects
 Understanding event-driven programming
 Learning Swing and AWT concepts
+
 🔮 Future Enhancements
 Keyboard input support
 Scientific notation mode
